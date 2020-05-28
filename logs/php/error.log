@@ -1,0 +1,104 @@
+[09-Mar-2020 10:12:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function bcn_display() in /Users/arcuw/Local Sites/mitarashi/app/public/wp-content/themes/tf30/archive.php:15
+Stack trace:
+#0 /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/template-loader.php(98): include()
+#1 /Users/arcuw/Local Sites/mitarashi/app/public/wp-blog-header.php(19): require_once('/Users/arcuw/Lo...')
+#2 /Users/arcuw/Local Sites/mitarashi/app/public/index.php(17): require('/Users/arcuw/Lo...')
+#3 {main}
+  thrown in /Users/arcuw/Local Sites/mitarashi/app/public/wp-content/themes/tf30/archive.php on line 15
+[09-Mar-2020 10:12:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function bcn_display() in /Users/arcuw/Local Sites/mitarashi/app/public/wp-content/themes/tf30/archive.php:15
+Stack trace:
+#0 /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/template-loader.php(98): include()
+#1 /Users/arcuw/Local Sites/mitarashi/app/public/wp-blog-header.php(19): require_once('/Users/arcuw/Lo...')
+#2 /Users/arcuw/Local Sites/mitarashi/app/public/index.php(17): require('/Users/arcuw/Lo...')
+#3 {main}
+  thrown in /Users/arcuw/Local Sites/mitarashi/app/public/wp-content/themes/tf30/archive.php on line 15
+[09-Mar-2020 10:14:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function bcn_display() in /Users/arcuw/Local Sites/mitarashi/app/public/wp-content/themes/tf30/archive.php:15
+Stack trace:
+#0 /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/template-loader.php(98): include()
+#1 /Users/arcuw/Local Sites/mitarashi/app/public/wp-blog-header.php(19): require_once('/Users/arcuw/Lo...')
+#2 /Users/arcuw/Local Sites/mitarashi/app/public/index.php(17): require('/Users/arcuw/Lo...')
+#3 {main}
+  thrown in /Users/arcuw/Local Sites/mitarashi/app/public/wp-content/themes/tf30/archive.php on line 15
+[09-Mar-2020 10:16:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function bcn_display() in /Users/arcuw/Local Sites/mitarashi/app/public/wp-content/themes/tf30/archive.php:15
+Stack trace:
+#0 /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/template-loader.php(98): include()
+#1 /Users/arcuw/Local Sites/mitarashi/app/public/wp-blog-header.php(19): require_once('/Users/arcuw/Lo...')
+#2 /Users/arcuw/Local Sites/mitarashi/app/public/index.php(17): require('/Users/arcuw/Lo...')
+#3 {main}
+  thrown in /Users/arcuw/Local Sites/mitarashi/app/public/wp-content/themes/tf30/archive.php on line 15
+[09-Mar-2020 10:16:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function bcn_display() in /Users/arcuw/Local Sites/mitarashi/app/public/wp-content/themes/tf30/archive.php:15
+Stack trace:
+#0 /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/template-loader.php(98): include()
+#1 /Users/arcuw/Local Sites/mitarashi/app/public/wp-blog-header.php(19): require_once('/Users/arcuw/Lo...')
+#2 /Users/arcuw/Local Sites/mitarashi/app/public/index.php(17): require('/Users/arcuw/Lo...')
+#3 {main}
+  thrown in /Users/arcuw/Local Sites/mitarashi/app/public/wp-content/themes/tf30/archive.php on line 15
+[09-Mar-2020 10:16:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function bcn_display() in /Users/arcuw/Local Sites/mitarashi/app/public/wp-content/themes/tf30/archive.php:16
+Stack trace:
+#0 /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/template-loader.php(98): include()
+#1 /Users/arcuw/Local Sites/mitarashi/app/public/wp-blog-header.php(19): require_once('/Users/arcuw/Lo...')
+#2 /Users/arcuw/Local Sites/mitarashi/app/public/index.php(17): require('/Users/arcuw/Lo...')
+#3 {main}
+  thrown in /Users/arcuw/Local Sites/mitarashi/app/public/wp-content/themes/tf30/archive.php on line 16
+[09-Mar-2020 10:18:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function bcn_display() in /Users/arcuw/Local Sites/mitarashi/app/public/wp-content/themes/tf30/archive.php:15
+Stack trace:
+#0 /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/template-loader.php(98): include()
+#1 /Users/arcuw/Local Sites/mitarashi/app/public/wp-blog-header.php(19): require_once('/Users/arcuw/Lo...')
+#2 /Users/arcuw/Local Sites/mitarashi/app/public/index.php(17): require('/Users/arcuw/Lo...')
+#3 {main}
+  thrown in /Users/arcuw/Local Sites/mitarashi/app/public/wp-content/themes/tf30/archive.php on line 15
+[10-Mar-2020 13:37:54 UTC] PHP Catchable fatal error:  Object of class WP_Term could not be converted to string in /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/class-wp-query.php on line 763
+[10-Mar-2020 13:37:54 UTC] PHP Stack trace:
+[10-Mar-2020 13:37:54 UTC] PHP   1. {main}() /Users/arcuw/Local Sites/mitarashi/app/public/index.php:0
+[10-Mar-2020 13:37:54 UTC] PHP   2. require() /Users/arcuw/Local Sites/mitarashi/app/public/index.php:17
+[10-Mar-2020 13:37:54 UTC] PHP   3. require_once() /Users/arcuw/Local Sites/mitarashi/app/public/wp-blog-header.php:19
+[10-Mar-2020 13:37:54 UTC] PHP   4. include() /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/template-loader.php:98
+[10-Mar-2020 13:37:54 UTC] PHP   5. WP_Query->__construct() /Users/arcuw/Local Sites/mitarashi/app/public/wp-content/themes/tf30/single.php:102
+[10-Mar-2020 13:37:54 UTC] PHP   6. WP_Query->query() /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/class-wp-query.php:3522
+[10-Mar-2020 13:37:54 UTC] PHP   7. WP_Query->get_posts() /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/class-wp-query.php:3413
+[10-Mar-2020 13:37:54 UTC] PHP   8. WP_Query->parse_query() /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/class-wp-query.php:1744
+[10-Mar-2020 13:37:54 UTC] PHP   9. preg_replace() /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/class-wp-query.php:763
+[10-Mar-2020 13:40:18 UTC] PHP Catchable fatal error:  Object of class WP_Term could not be converted to string in /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/class-wp-query.php on line 763
+[10-Mar-2020 13:40:18 UTC] PHP Stack trace:
+[10-Mar-2020 13:40:18 UTC] PHP   1. {main}() /Users/arcuw/Local Sites/mitarashi/app/public/index.php:0
+[10-Mar-2020 13:40:18 UTC] PHP   2. require() /Users/arcuw/Local Sites/mitarashi/app/public/index.php:17
+[10-Mar-2020 13:40:18 UTC] PHP   3. require_once() /Users/arcuw/Local Sites/mitarashi/app/public/wp-blog-header.php:19
+[10-Mar-2020 13:40:18 UTC] PHP   4. include() /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/template-loader.php:98
+[10-Mar-2020 13:40:18 UTC] PHP   5. WP_Query->__construct() /Users/arcuw/Local Sites/mitarashi/app/public/wp-content/themes/tf30/single.php:103
+[10-Mar-2020 13:40:18 UTC] PHP   6. WP_Query->query() /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/class-wp-query.php:3522
+[10-Mar-2020 13:40:18 UTC] PHP   7. WP_Query->get_posts() /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/class-wp-query.php:3413
+[10-Mar-2020 13:40:18 UTC] PHP   8. WP_Query->parse_query() /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/class-wp-query.php:1744
+[10-Mar-2020 13:40:18 UTC] PHP   9. preg_replace() /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/class-wp-query.php:763
+[10-Mar-2020 13:49:02 UTC] PHP Catchable fatal error:  Object of class WP_Term could not be converted to string in /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/class-wp-query.php on line 763
+[10-Mar-2020 13:49:02 UTC] PHP Stack trace:
+[10-Mar-2020 13:49:02 UTC] PHP   1. {main}() /Users/arcuw/Local Sites/mitarashi/app/public/index.php:0
+[10-Mar-2020 13:49:02 UTC] PHP   2. require() /Users/arcuw/Local Sites/mitarashi/app/public/index.php:17
+[10-Mar-2020 13:49:02 UTC] PHP   3. require_once() /Users/arcuw/Local Sites/mitarashi/app/public/wp-blog-header.php:19
+[10-Mar-2020 13:49:02 UTC] PHP   4. include() /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/template-loader.php:98
+[10-Mar-2020 13:49:02 UTC] PHP   5. WP_Query->__construct() /Users/arcuw/Local Sites/mitarashi/app/public/wp-content/themes/tf30/single.php:104
+[10-Mar-2020 13:49:02 UTC] PHP   6. WP_Query->query() /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/class-wp-query.php:3522
+[10-Mar-2020 13:49:02 UTC] PHP   7. WP_Query->get_posts() /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/class-wp-query.php:3413
+[10-Mar-2020 13:49:02 UTC] PHP   8. WP_Query->parse_query() /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/class-wp-query.php:1744
+[10-Mar-2020 13:49:02 UTC] PHP   9. preg_replace() /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/class-wp-query.php:763
+[10-Mar-2020 13:49:05 UTC] PHP Catchable fatal error:  Object of class WP_Term could not be converted to string in /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/class-wp-query.php on line 763
+[10-Mar-2020 13:49:05 UTC] PHP Stack trace:
+[10-Mar-2020 13:49:05 UTC] PHP   1. {main}() /Users/arcuw/Local Sites/mitarashi/app/public/index.php:0
+[10-Mar-2020 13:49:05 UTC] PHP   2. require() /Users/arcuw/Local Sites/mitarashi/app/public/index.php:17
+[10-Mar-2020 13:49:05 UTC] PHP   3. require_once() /Users/arcuw/Local Sites/mitarashi/app/public/wp-blog-header.php:19
+[10-Mar-2020 13:49:05 UTC] PHP   4. include() /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/template-loader.php:98
+[10-Mar-2020 13:49:05 UTC] PHP   5. WP_Query->__construct() /Users/arcuw/Local Sites/mitarashi/app/public/wp-content/themes/tf30/single.php:104
+[10-Mar-2020 13:49:05 UTC] PHP   6. WP_Query->query() /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/class-wp-query.php:3522
+[10-Mar-2020 13:49:05 UTC] PHP   7. WP_Query->get_posts() /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/class-wp-query.php:3413
+[10-Mar-2020 13:49:05 UTC] PHP   8. WP_Query->parse_query() /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/class-wp-query.php:1744
+[10-Mar-2020 13:49:05 UTC] PHP   9. preg_replace() /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/class-wp-query.php:763
+[10-Mar-2020 13:49:55 UTC] PHP Catchable fatal error:  Object of class WP_Term could not be converted to string in /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/class-wp-query.php on line 763
+[10-Mar-2020 13:49:55 UTC] PHP Stack trace:
+[10-Mar-2020 13:49:55 UTC] PHP   1. {main}() /Users/arcuw/Local Sites/mitarashi/app/public/index.php:0
+[10-Mar-2020 13:49:55 UTC] PHP   2. require() /Users/arcuw/Local Sites/mitarashi/app/public/index.php:17
+[10-Mar-2020 13:49:55 UTC] PHP   3. require_once() /Users/arcuw/Local Sites/mitarashi/app/public/wp-blog-header.php:19
+[10-Mar-2020 13:49:55 UTC] PHP   4. include() /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/template-loader.php:98
+[10-Mar-2020 13:49:55 UTC] PHP   5. WP_Query->__construct() /Users/arcuw/Local Sites/mitarashi/app/public/wp-content/themes/tf30/single.php:104
+[10-Mar-2020 13:49:55 UTC] PHP   6. WP_Query->query() /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/class-wp-query.php:3522
+[10-Mar-2020 13:49:55 UTC] PHP   7. WP_Query->get_posts() /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/class-wp-query.php:3413
+[10-Mar-2020 13:49:55 UTC] PHP   8. WP_Query->parse_query() /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/class-wp-query.php:1744
+[10-Mar-2020 13:49:55 UTC] PHP   9. preg_replace() /Users/arcuw/Local Sites/mitarashi/app/public/wp-includes/class-wp-query.php:763
